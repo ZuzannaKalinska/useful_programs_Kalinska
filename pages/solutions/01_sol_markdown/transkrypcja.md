@@ -17,6 +17,7 @@ Przepisz treść i informacje zawarte na zdjęciu, napisz w formacie markdown.
 - najprostszy model - quantum box - kropka kwantowa w kształcie sześcianu, na zewnątrz potencjał nieskończony
 - równanie Schrödingera:
 
+
 $$
 -\frac{\hbar^2}{2m}
 \left(
