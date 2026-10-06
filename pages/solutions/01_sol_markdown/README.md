@@ -78,3 +78,9 @@ $$
 Na wykresie przedstawiono tor lotu grzyba rzuconego pod pewnym kątem do podłoża. Jest to przykład **rzutu ukośnego**, w którym na poruszający się obiekt działa siła grawitacji.
 
 ![Wykres](wykres.png)
+
+
+# Podsumowanie
+
+Ten plik przedstawia różne zastosowania grzybów leśnych w kuchni, przepisy, listę popularnych gatunków jadalnych, instrukcje przygotowania sosu grzybowego, checklistę dla grzybiarzy, tabelę przykładowych grzybów, link do Google Colab, przykładowy kod Python oraz wzory matematyczne związane z grzybami.  
+
