@@ -27,8 +27,7 @@ $$
 +
 \frac{\partial^2}{\partial z^2}
 \right)
-\Psi(x,y,z)
-=
+\Psi(x,y,z)=
 E\Psi(x,y,z)
 $$
 
