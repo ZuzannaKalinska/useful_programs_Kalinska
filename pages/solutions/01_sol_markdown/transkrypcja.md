@@ -10,7 +10,7 @@ Przepisz treść i informacje zawarte na zdjęciu, napisz w formacie markdown.
 
 ## Finalna wersja notatki
 
-# 11. CO TO SĄ KROPKI KWANTOWE I JAKIE MAJĄ WŁAŚCIWOŚCI?
+# 11. CO TO SĄ KROPKI KWANTOWE I JAKIE MAJĄ WŁASNOŚCI?
 
 - 0D struktura
 - ruch elektronu ograniczony w trzech wymiarach
