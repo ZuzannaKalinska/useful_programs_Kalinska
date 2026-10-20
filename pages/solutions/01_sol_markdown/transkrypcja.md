@@ -6,7 +6,9 @@ Celem zadania było wykorzystanie możliwości AI do przepisania treści zapisan
 
 ## Prompt użyty do wygenerowania tekstu przez AI
 
+```markdown
 Przepisz treść i informacje zawarte na zdjęciu, napisz w formacie markdown.
+```
 
 ## Finalna wersja notatki
 
