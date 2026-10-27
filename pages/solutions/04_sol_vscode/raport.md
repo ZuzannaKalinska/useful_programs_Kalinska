@@ -1,9 +1,9 @@
 # Analiza rzutu ukośnego: model idealny vs opór powietrza
 
-*Raport obliczeniowy przygotowany w ramach zadania z wykorzystaniem VS Code.*
 
 **Temat:** Dwuwymiarowy ruch punktu materialnego w polu grawitacyjnym.  
 **Metoda:** Rozwiązania analityczne oraz całkowanie numeryczne (Python/SciPy).  
+**Cel dokumentu:** Celem niniejszego raportu jest szczegółowa analiza porównawcza rzutu ukośnego w próżni (model idealny) oraz w atmosferze z uwzględnieniem kwadratowego oporu powietrza. Dokument ma na celu demonstrację różnic w trajektorii, prędkości oraz bilansie energetycznym układu, a także prezentację umiejętności łączenia opisu matematycznego z narzędziami programistycznymi do symulacji fizycznych.
 **Dane wejściowe (indeks 374061):**
 - Prędkość początkowa $v_0 = 37.0$ m/s
 - Kąt początkowy $\alpha = 61.0^\circ$
@@ -85,18 +85,21 @@ Z uwagi na brak prostego rozwiązania analitycznego dla modelu kwadratowego, tra
 Na poniższym wykresie widać wyraźną różnicę między parabolą (model idealny) a trajektorią z oporem powietrza. Opór powietrza powoduje skrócenie zasięgu oraz sprawia, że krzywa staje się asymetryczna (opadanie jest bardziej strome).
 
 ![Trajektoria rzutu](files/rzut/trajektoria.png)
+*Rysunek 1. Porównanie trajektorii rzutu dla modelu idealnego (linia przerywana) oraz z uwzględnieniem oporu powietrza (linia ciągła).*
 
 ### 4.2. Zmiana prędkości
 
 W modelu idealnym prędkość w osi $x$ jest stała. Z oporem powietrza, obie składowe prędkości maleją, co prowadzi do szybszego wytracania energii kinetycznej.
 
 ![Prędkość w czasie](files/rzut/predkosc.png)
+*Rysunek 2. Moduł prędkości wypadkowej w funkcji czasu dla obu rozważanych modeli.*
 
 ### 4.3. Zachowanie energii
 
 W modelu bez oporu, energia całkowita ($E_k + E_p$) jest stała. W obecności oporu powietrza, praca sił oporu jest ujemna, co prowadzi do ciągłego spadku energii mechanicznej układu.
 
 ![Energia](files/rzut/energia.png)
+*Rysunek 3. Zmiana energii całkowitej układu w czasie. Spadek energii w modelu rzeczywistym wynika z pracy sił oporu.*
 
 ---
 
