@@ -48,7 +48,6 @@ czyli $\ddot{x}=0$ i $\ddot{y}=-g$. Całkując równania i stosując warunki poc
 
 $$
 x(t)=v_0\cos\alpha\,t,\qquad
-
 $$
 
 ### Tor i parametry rzutu
@@ -127,7 +126,7 @@ Parabola opisuje model idealny. Przy oporze tor jest krótszy i niesymetryczny: 
 
 ![Tor rzutu ukośnego bez oporu i z oporem powietrza](files/rzut/trajektoria.svg)
 
-*Rysunek 1. Zależność wysokości $y$ od położenia poziomego $x$; osie w metrach.*
+Rysunek 1. Zależność wysokości $y$ od położenia poziomego $x$; osie w metrach.
 
 ### 5.2. Położenie w czasie
 
@@ -135,7 +134,7 @@ W modelu idealnym $x(t)$ rośnie liniowo. W modelu z oporem pozioma składowa ru
 
 ![Położenie poziome i wysokość w czasie dla obu modeli](files/rzut/polozenie_czas.svg)
 
-*Rysunek 2. Współrzędne $x(t)$ i $y(t)$ w funkcji czasu $t$; czas w sekundach, położenie w metrach.*
+Rysunek 2. Współrzędne $x(t)$ i $y(t)$ w funkcji czasu $t$; czas w sekundach, położenie w metrach.
 
 ### 5.3. Składowe prędkości
 
@@ -143,7 +142,7 @@ Bez oporu $v_x$ jest stałe, a $v_y$ maleje liniowo z nachyleniem $-g$. Z oporem
 
 ![Składowe prędkości w czasie](files/rzut/skladowe_predkosci.svg)
 
-*Rysunek 3. Składowe $v_x(t)$ i $v_y(t)$; prędkość w metrach na sekundę.*
+Rysunek 3. Składowe $v_x(t)$ i $v_y(t)$; prędkość w metrach na sekundę.
 
 ### 5.4. Szybkość
 
@@ -151,7 +150,7 @@ Szybkość jest modułem wektora prędkości, $|\vec v|=\sqrt{v_x^2+v_y^2}$. Bez
 
 ![Szybkość w czasie w modelu idealnym i z oporem](files/rzut/szybkosc.svg)
 
-*Rysunek 4. Moduł prędkości $|\vec v(t)|$ w metrach na sekundę.*
+Rysunek 4. Moduł prędkości $|\vec v(t)|$ w metrach na sekundę.
 
 ### 5.5. Przyspieszenie
 
@@ -159,7 +158,7 @@ W modelu idealnym $a_x=0$ i $a_y=-g$. Przy oporze poziome przyspieszenie jest sk
 
 ![Składowe przyspieszenia w modelu z oporem](files/rzut/przyspieszenie.svg)
 
-*Rysunek 5. Składowe przyspieszenia z oporem oraz poziom $-g$ modelu idealnego; jednostka $\mathrm{m/s^2}$.*
+Rysunek 5. Składowe przyspieszenia z oporem oraz poziom $-g$ modelu idealnego; jednostka $\mathrm{m/s^2}$.
 
 ### 5.6. Energia
 
@@ -167,7 +166,7 @@ Energia mechaniczna modelu idealnego jest stała. W modelu z oporem maleje, nato
 
 ![Energia kinetyczna, potencjalna i mechaniczna w czasie](files/rzut/energia.svg)
 
-*Rysunek 6. Energie w dżulach w funkcji czasu. Linia idealna przedstawia energię mechaniczną, która jest zachowana.*
+Rysunek 6. Energie w dżulach w funkcji czasu. Linia idealna przedstawia energię mechaniczną, która jest zachowana.
 
 Wyniki symulacji dla modelu z oporem porównano z rozwiązaniem analitycznym:
 
